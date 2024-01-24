@@ -13,6 +13,7 @@ void quick_sort(int *array, size_t size)
 
 /**
  * partition - function to partition the array
+ * @array: array to work on
  * @low: lower end of array
  * @high: upper end of array
  * @size: size of the array
